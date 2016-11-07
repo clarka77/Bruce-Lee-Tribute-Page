@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Please read: http://msdn.microsoft.com/en-us/library/ie/dn455106.aspx -->
+<!-- Creating custom tiles for IE11 websites -->
+<browserconfig>
+  <msapplication>
+	<tile>
+	  <square70x70logo src="images/ietiles/smalltile.png"/>
+	  <square150x150logo src="images/ietiles/mediumtile.png"/>
+	  <wide310x150logo src="images/ietiles/widetile.png"/>
+	  <square310x310logo src="images/ietiles/largetile.png"/>
+	  <TileColor>#2E8BEF</TileColor><!-- light blue -->
+	</tile>
+  </msapplication>
+</browserconfig>

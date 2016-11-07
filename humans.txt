@@ -1,0 +1,47 @@
+/* TEAM */
+
+Your title: Your name.                            
+Site: email, link to a contact form, etc.                            
+Twitter: your Twitter username.                            
+Location: City, Country.
+
+/* THANKS */
+
+Simply 404: The Fireworks Police
+Email: Support@FWPolice.com
+Site: http://fwpolice.com/
+Twitter: @FWPolice
+From: City of New York, NY  USA
+
+Humans TXT: We Are People, Not Machines
+Email: hello@humanstxt.org
+Site: http://humanstxt.org
+Twitter: @humanstxt
+Location: World Wide Web, Internet
+
+HTML5 Boilerplate: Catalin Maris, Nicolas Gallagher, Paul Irish, Divya Manian, Mathias Bynens and Hans Christian Reinl.
+Site: https://html5boilerplate.com/
+Twitter: @h5bp
+Location: World Wide Web, Internet
+
+Pure: James Alley and the Yahoo Presentation Technologies team
+Contact: https://hackerone.com/yahoo/
+Site: http://purecss.io/
+Location: Yahoo, USA	
+
+Adaptive Images: Matt Wilcox
+Site: http://adaptive-images.com
+Twitter: @MattWilcox
+Location: Llandudno, Wales	
+
+Responsive Typography: Jason Pamental
+Site: http://hwdesignco.com/about
+Twitter: @jpamental
+Location: East Providence, RI
+
+/* SITE */
+
+Last update: YYYY/MM/DD      
+Standards: HTML5, CSS3,..                            
+Components: Modernizr, jQuery, etc.                            
+Software: Software used for the development
